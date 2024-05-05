@@ -31,7 +31,7 @@
 
 - A fully featured GUI to visualize the output and make changes live
     - ![GUI](https://i.ibb.co/ysPDnZG/Screenshot-2024-05-05-185401.png)
-- A command line interface available via `py -m braille-images`
+- A command line interface available via `py braille-images`
 ## Usage
 
 > Before using the app, you must install its dependencies by running `pip install -r requirements.txt`

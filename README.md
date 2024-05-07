@@ -40,4 +40,4 @@ To open the GUI simply open the `run.cmd` file, or alternatively run `py main.py
 
 To use the command line interface run `py braille-images-main -h` for info on how to use it
 
-If you have any issues using the app feel free to contact me through [my discord!](https://discord.com/users/467268976523739157)
+If you have any issues using the app feel free to [open an issue](https://github.com/Mews/braille-images/issues/new) or contact me through [my discord!](https://discord.com/users/467268976523739157)
